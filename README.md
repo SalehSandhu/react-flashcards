@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Flash card project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Flashcard project created with react to help learn some keywords.
+Getting used to the useState and functions.
+
+Still need to improve on my knowledge and create more projects.
+
+Project was completed with the aid of the tutorial: https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=1375s
 
 ## Available Scripts
 
